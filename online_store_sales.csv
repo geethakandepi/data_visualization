@@ -1,0 +1,501 @@
+Order_ID,Date,Product,Category,Quantity,Price,Sales,Region
+ORD0001,2025-12-15,Jeans,Fashion,5,2242.61,11213.05,North
+ORD0002,2025-08-03,Biography,Books,5,663.14,3315.7,North
+ORD0003,2025-05-11,Lipstick,Beauty,2,626.64,1253.28,North
+ORD0004,2025-07-11,T-Shirt,Fashion,1,1153.02,1153.02,West
+ORD0005,2025-09-10,Perfume,Beauty,1,2210.9,2210.9,South
+ORD0006,2025-07-07,Handbag,Fashion,6,2570.74,15424.44,South
+ORD0007,2025-12-30,Biography,Books,1,591.04,591.04,South
+ORD0008,2025-05-15,Biography,Books,7,586.72,4107.04,North
+ORD0009,2025-11-12,Hair Serum,Beauty,2,864.83,1729.66,East
+ORD0010,2025-12-06,Face Wash,Beauty,4,415.98,1663.92,South
+ORD0011,2025-02-04,Jacket,Fashion,4,4214.01,16856.04,West
+ORD0012,2025-01-02,Smartwatch,Electronics,6,8074.74,48448.44,South
+ORD0013,2025-07-10,Perfume,Beauty,4,2393.38,9573.52,West
+ORD0014,2025-09-27,Smartwatch,Electronics,7,7341.59,51391.13,East
+ORD0015,2025-09-09,Moisturizer,Beauty,5,684.41,3422.05,North
+ORD0016,2025-02-22,Exam Guide,Books,1,764.95,764.95,East
+ORD0017,2025-02-10,Table Lamp,Home & Kitchen,5,1646.84,8234.2,South
+ORD0018,2025-01-09,Jeans,Fashion,4,2109.13,8436.52,West
+ORD0019,2025-03-22,Mixer Grinder,Home & Kitchen,3,4744.14,14232.42,East
+ORD0020,2025-08-19,Bluetooth Speaker,Electronics,4,3754.17,15016.68,East
+ORD0021,2025-09-25,Jacket,Fashion,7,4329.88,30309.16,South
+ORD0022,2025-10-20,Lipstick,Beauty,6,646.47,3878.82,East
+ORD0023,2025-08-15,Laptop,Electronics,6,69535.88,417215.28,North
+ORD0024,2025-08-06,Bluetooth Speaker,Electronics,6,3495.66,20973.96,North
+ORD0025,2025-07-26,Shoes,Fashion,2,3457.54,6915.08,South
+ORD0026,2025-03-04,Biography,Books,1,625.87,625.87,West
+ORD0027,2025-08-10,Smartwatch,Electronics,7,7856.61,54996.27,North
+ORD0028,2025-01-29,Mixer Grinder,Home & Kitchen,7,4310.78,30175.46,North
+ORD0029,2025-10-11,Perfume,Beauty,5,2110.08,10550.4,West
+ORD0030,2025-05-14,Face Wash,Beauty,4,421.79,1687.16,South
+ORD0031,2025-05-08,Mixer Grinder,Home & Kitchen,4,4370.67,17482.68,West
+ORD0032,2025-10-10,Laptop,Electronics,4,63083.4,252333.6,South
+ORD0033,2025-12-25,Headphones,Electronics,3,2458.71,7376.13,North
+ORD0034,2025-08-13,Bluetooth Speaker,Electronics,4,3320.89,13283.56,North
+ORD0035,2025-06-09,Perfume,Beauty,1,2157.69,2157.69,South
+ORD0036,2025-02-21,Programming Book,Books,7,1199.34,8395.38,South
+ORD0037,2025-04-11,Programming Book,Books,1,1144.03,1144.03,South
+ORD0038,2025-05-10,Smartphone,Electronics,7,28671.88,200703.16,South
+ORD0039,2025-05-06,Laptop,Electronics,4,64321.18,257284.72,North
+ORD0040,2025-09-04,T-Shirt,Fashion,3,1168.72,3506.16,East
+ORD0041,2025-09-12,Programming Book,Books,5,1231.75,6158.75,West
+ORD0042,2025-08-28,T-Shirt,Fashion,1,1156.99,1156.99,West
+ORD0043,2025-12-15,T-Shirt,Fashion,4,1242.62,4970.48,West
+ORD0044,2025-12-12,Biography,Books,3,630.33,1890.99,South
+ORD0045,2025-11-04,Jeans,Fashion,7,2392.16,16745.12,West
+ORD0046,2025-09-24,Laptop,Electronics,1,61217.93,61217.93,South
+ORD0047,2025-04-09,Handbag,Fashion,2,3070.01,6140.02,North
+ORD0048,2025-03-01,Children Book,Books,1,367.45,367.45,South
+ORD0049,2025-02-06,Cookware Set,Home & Kitchen,7,3096.98,21678.86,West
+ORD0050,2025-05-27,Headphones,Electronics,3,2678.16,8034.48,East
+ORD0051,2025-04-30,Perfume,Beauty,4,2017.02,8068.08,West
+ORD0052,2025-04-14,Jacket,Fashion,3,4385.05,13155.15,East
+ORD0053,2025-04-09,Hair Serum,Beauty,2,838.95,1677.9,West
+ORD0054,2025-07-13,Exam Guide,Books,5,755.88,3779.4,East
+ORD0055,2025-03-09,Laptop,Electronics,5,60824.7,304123.5,North
+ORD0056,2025-05-15,Lipstick,Beauty,1,605.1,605.1,East
+ORD0057,2025-01-22,Biography,Books,6,712.26,4273.56,South
+ORD0058,2025-09-21,Biography,Books,2,630.51,1261.02,East
+ORD0059,2025-10-11,Laptop,Electronics,1,61038.16,61038.16,East
+ORD0060,2025-05-27,Novel,Books,1,454.36,454.36,East
+ORD0061,2025-08-08,Cookware Set,Home & Kitchen,6,3465.51,20793.06,South
+ORD0062,2025-08-21,Headphones,Electronics,5,2464.09,12320.45,West
+ORD0063,2025-04-05,Face Wash,Beauty,1,411.78,411.78,West
+ORD0064,2025-06-10,Face Wash,Beauty,2,455.11,910.22,South
+ORD0065,2025-02-27,Perfume,Beauty,6,2022.76,12136.56,West
+ORD0066,2025-12-08,Water Bottle,Home & Kitchen,7,602.2,4215.4,South
+ORD0067,2025-09-30,Smartphone,Electronics,1,31214.9,31214.9,West
+ORD0068,2025-02-08,Novel,Books,7,491.98,3443.86,South
+ORD0069,2025-01-13,Exam Guide,Books,7,800.24,5601.68,North
+ORD0070,2025-01-20,Table Lamp,Home & Kitchen,6,1906.49,11438.94,East
+ORD0071,2025-05-23,Cookware Set,Home & Kitchen,2,3160.62,6321.24,South
+ORD0072,2025-02-20,Perfume,Beauty,7,2412.01,16884.07,South
+ORD0073,2025-11-10,Perfume,Beauty,1,1996.43,1996.43,West
+ORD0074,2025-09-28,T-Shirt,Fashion,4,1158.4,4633.6,South
+ORD0075,2025-02-22,Jacket,Fashion,4,4610.6,18442.4,South
+ORD0076,2025-09-19,Smartwatch,Electronics,4,7858.17,31432.68,North
+ORD0077,2025-11-07,Headphones,Electronics,5,2734.77,13673.85,North
+ORD0078,2025-06-07,Handbag,Fashion,7,2762.77,19339.39,North
+ORD0079,2025-12-12,Moisturizer,Beauty,5,641.32,3206.6,North
+ORD0080,2025-05-09,Shoes,Fashion,1,3459.65,3459.65,North
+ORD0081,2025-02-17,Perfume,Beauty,5,2103.17,10515.85,North
+ORD0082,2025-07-08,Novel,Books,7,493.57,3454.99,East
+ORD0083,2025-03-17,Moisturizer,Beauty,3,736.1,2208.3,East
+ORD0084,2025-10-12,Hair Serum,Beauty,5,826.95,4134.75,North
+ORD0085,2025-07-23,Bedsheet,Home & Kitchen,2,1497.48,2994.96,North
+ORD0086,2025-04-10,Jeans,Fashion,6,2265.9,13595.4,North
+ORD0087,2025-09-03,Handbag,Fashion,2,2666.1,5332.2,East
+ORD0088,2025-09-07,Handbag,Fashion,1,2822.05,2822.05,West
+ORD0089,2025-01-04,Table Lamp,Home & Kitchen,7,1959.93,13719.51,East
+ORD0090,2025-06-01,Children Book,Books,3,411.46,1234.38,East
+ORD0091,2025-06-28,Laptop,Electronics,4,63519.33,254077.32,West
+ORD0092,2025-06-17,Laptop,Electronics,4,62061.49,248245.96,West
+ORD0093,2025-04-05,Cookware Set,Home & Kitchen,5,2940.44,14702.2,South
+ORD0094,2025-08-03,Headphones,Electronics,5,2672.44,13362.2,North
+ORD0095,2025-04-25,Smartphone,Electronics,4,31157.34,124629.36,South
+ORD0096,2025-03-16,Exam Guide,Books,4,786.87,3147.48,West
+ORD0097,2025-06-13,Hair Serum,Beauty,1,912.33,912.33,North
+ORD0098,2025-06-26,Headphones,Electronics,4,2436.01,9744.04,East
+ORD0099,2025-04-06,Jeans,Fashion,6,2227.22,13363.32,South
+ORD0100,2025-07-02,Cookware Set,Home & Kitchen,1,3032.47,3032.47,West
+ORD0101,2025-03-03,Programming Book,Books,1,1156.81,1156.81,South
+ORD0102,2025-06-26,Biography,Books,5,702.7,3513.5,North
+ORD0103,2025-09-22,Cookware Set,Home & Kitchen,6,3313.13,19878.78,South
+ORD0104,2025-12-05,Children Book,Books,5,367.34,1836.7,South
+ORD0105,2025-01-25,Cookware Set,Home & Kitchen,5,3361.52,16807.6,East
+ORD0106,2025-05-24,Moisturizer,Beauty,5,760.33,3801.65,West
+ORD0107,2025-08-11,Jeans,Fashion,3,2370.59,7111.77,North
+ORD0108,2025-11-27,Mixer Grinder,Home & Kitchen,4,4669.23,18676.92,North
+ORD0109,2025-09-10,Cookware Set,Home & Kitchen,6,3328.62,19971.72,West
+ORD0110,2025-10-10,Handbag,Fashion,5,2807.46,14037.3,East
+ORD0111,2025-12-05,T-Shirt,Fashion,5,1168.95,5844.75,East
+ORD0112,2025-05-25,Children Book,Books,1,407.35,407.35,West
+ORD0113,2025-03-11,Smartwatch,Electronics,3,8443.44,25330.32,East
+ORD0114,2025-06-16,Perfume,Beauty,2,2125.31,4250.62,South
+ORD0115,2025-06-22,Headphones,Electronics,4,2535.74,10142.96,North
+ORD0116,2025-11-13,Children Book,Books,7,419.68,2937.76,West
+ORD0117,2025-12-14,Table Lamp,Home & Kitchen,7,1791.98,12543.86,West
+ORD0118,2025-11-08,Hair Serum,Beauty,5,983.38,4916.9,South
+ORD0119,2025-06-22,Cookware Set,Home & Kitchen,5,3086.52,15432.6,West
+ORD0120,2025-08-01,Novel,Books,5,475.3,2376.5,West
+ORD0121,2025-01-20,Biography,Books,7,666.82,4667.74,North
+ORD0122,2025-05-23,Bedsheet,Home & Kitchen,5,1559.08,7795.4,South
+ORD0123,2025-05-24,Headphones,Electronics,3,2390.48,7171.44,East
+ORD0124,2025-12-24,Novel,Books,4,483.57,1934.28,South
+ORD0125,2025-03-31,Smartwatch,Electronics,4,8133.85,32535.4,South
+ORD0126,2025-02-10,Bluetooth Speaker,Electronics,3,3638.71,10916.13,South
+ORD0127,2025-07-20,Programming Book,Books,4,1224.67,4898.68,South
+ORD0128,2025-02-15,Novel,Books,6,544.98,3269.88,North
+ORD0129,2025-10-30,Bluetooth Speaker,Electronics,2,3802.91,7605.82,West
+ORD0130,2025-09-08,Exam Guide,Books,7,785.8,5500.6,North
+ORD0131,2025-03-06,Perfume,Beauty,7,2046.18,14323.26,South
+ORD0132,2025-10-09,Face Wash,Beauty,6,479.62,2877.72,South
+ORD0133,2025-04-08,Programming Book,Books,7,1145.62,8019.34,North
+ORD0134,2025-11-07,Novel,Books,1,503.43,503.43,West
+ORD0135,2025-12-24,Bluetooth Speaker,Electronics,7,3688.29,25818.03,West
+ORD0136,2025-07-21,Bluetooth Speaker,Electronics,1,3318.76,3318.76,West
+ORD0137,2025-01-01,Shoes,Fashion,5,3295.06,16475.3,West
+ORD0138,2025-10-15,Laptop,Electronics,7,59976.25,419833.75,North
+ORD0139,2025-04-28,Smartphone,Electronics,2,32113.09,64226.18,West
+ORD0140,2025-08-24,Perfume,Beauty,6,2328.4,13970.4,East
+ORD0141,2025-04-22,Programming Book,Books,7,1261.23,8828.61,South
+ORD0142,2025-03-07,Face Wash,Beauty,7,417.27,2920.89,West
+ORD0143,2025-10-21,Smartphone,Electronics,2,29353.46,58706.92,East
+ORD0144,2025-11-04,Biography,Books,1,686.87,686.87,East
+ORD0145,2025-04-16,Moisturizer,Beauty,5,741.51,3707.55,West
+ORD0146,2025-07-03,Handbag,Fashion,1,2664.62,2664.62,West
+ORD0147,2025-03-10,Lipstick,Beauty,5,581.69,2908.45,West
+ORD0148,2025-02-12,Mixer Grinder,Home & Kitchen,3,4533.54,13600.62,South
+ORD0149,2025-07-02,Moisturizer,Beauty,3,649.44,1948.32,East
+ORD0150,2025-12-26,Jacket,Fashion,1,4857.11,4857.11,East
+ORD0151,2025-06-04,Headphones,Electronics,2,2550.97,5101.94,East
+ORD0152,2025-10-04,Biography,Books,4,630.19,2520.76,North
+ORD0153,2025-11-22,Perfume,Beauty,1,2136.64,2136.64,North
+ORD0154,2025-02-03,Bedsheet,Home & Kitchen,2,1557.12,3114.24,North
+ORD0155,2025-10-09,Shoes,Fashion,1,3631.45,3631.45,West
+ORD0156,2025-12-16,Lipstick,Beauty,5,540.31,2701.55,North
+ORD0157,2025-09-14,Smartwatch,Electronics,3,7495.23,22485.69,North
+ORD0158,2025-10-30,Water Bottle,Home & Kitchen,6,568.33,3409.98,South
+ORD0159,2025-03-19,Moisturizer,Beauty,5,638.73,3193.65,South
+ORD0160,2025-01-07,Lipstick,Beauty,7,601.4,4209.8,East
+ORD0161,2025-10-01,Water Bottle,Home & Kitchen,3,587.66,1762.98,South
+ORD0162,2025-04-29,Hair Serum,Beauty,2,911.51,1823.02,South
+ORD0163,2025-08-19,Programming Book,Books,6,1108.74,6652.44,North
+ORD0164,2025-01-13,Programming Book,Books,4,1165.23,4660.92,East
+ORD0165,2025-04-19,Shoes,Fashion,4,3525.97,14103.88,South
+ORD0166,2025-04-21,Smartphone,Electronics,1,30386.75,30386.75,West
+ORD0167,2025-04-11,Handbag,Fashion,2,2860.23,5720.46,South
+ORD0168,2025-11-11,Lipstick,Beauty,5,652.04,3260.2,West
+ORD0169,2025-05-30,Face Wash,Beauty,6,427.14,2562.84,North
+ORD0170,2025-12-16,Smartwatch,Electronics,6,8489.38,50936.28,North
+ORD0171,2025-11-07,Lipstick,Beauty,3,602.94,1808.82,West
+ORD0172,2025-08-17,Jacket,Fashion,7,4856.95,33998.65,West
+ORD0173,2025-08-08,Children Book,Books,7,425.37,2977.59,West
+ORD0174,2025-04-04,Programming Book,Books,3,1277.01,3831.03,North
+ORD0175,2025-12-01,Smartphone,Electronics,2,28679.87,57359.74,South
+ORD0176,2025-05-13,Cookware Set,Home & Kitchen,6,3335.01,20010.06,North
+ORD0177,2025-08-13,Children Book,Books,4,369.19,1476.76,East
+ORD0178,2025-11-16,Bedsheet,Home & Kitchen,6,1396.31,8377.86,North
+ORD0179,2025-11-29,Smartwatch,Electronics,1,7790.77,7790.77,South
+ORD0180,2025-01-10,Lipstick,Beauty,2,658.8,1317.6,East
+ORD0181,2025-06-17,Table Lamp,Home & Kitchen,1,1669.98,1669.98,West
+ORD0182,2025-09-30,Shoes,Fashion,7,3480.1,24360.7,North
+ORD0183,2025-04-04,Moisturizer,Beauty,5,746.29,3731.45,North
+ORD0184,2025-11-30,Cookware Set,Home & Kitchen,3,3480.54,10441.62,West
+ORD0185,2025-02-04,Cookware Set,Home & Kitchen,6,2910.78,17464.68,West
+ORD0186,2025-09-24,Jacket,Fashion,6,4769.58,28617.48,West
+ORD0187,2025-08-01,Headphones,Electronics,3,2582.6,7747.8,North
+ORD0188,2025-03-30,Smartwatch,Electronics,1,8292.77,8292.77,West
+ORD0189,2025-10-22,Jacket,Fashion,3,4611.69,13835.07,East
+ORD0190,2025-01-23,Laptop,Electronics,1,61518.77,61518.77,South
+ORD0191,2025-11-05,Laptop,Electronics,3,65557.04,196671.12,West
+ORD0192,2025-05-14,T-Shirt,Fashion,3,1160.38,3481.14,South
+ORD0193,2025-01-15,Children Book,Books,1,402.68,402.68,West
+ORD0194,2025-06-06,Jeans,Fashion,1,2291.07,2291.07,North
+ORD0195,2025-10-16,Moisturizer,Beauty,6,729.97,4379.82,North
+ORD0196,2025-05-03,Bluetooth Speaker,Electronics,6,3724.88,22349.28,West
+ORD0197,2025-08-16,Water Bottle,Home & Kitchen,4,587.67,2350.68,South
+ORD0198,2025-09-18,Jacket,Fashion,4,4700.03,18800.12,South
+ORD0199,2025-04-05,Smartphone,Electronics,4,30256.35,121025.4,East
+ORD0200,2025-10-10,Mixer Grinder,Home & Kitchen,3,4913.17,14739.51,South
+ORD0201,2025-02-07,Jacket,Fashion,7,4465.81,31260.67,North
+ORD0202,2025-12-29,Bedsheet,Home & Kitchen,5,1391.73,6958.65,North
+ORD0203,2025-04-21,Exam Guide,Books,3,869.14,2607.42,East
+ORD0204,2025-11-20,Smartwatch,Electronics,5,8331.58,41657.9,West
+ORD0205,2025-04-02,Handbag,Fashion,1,2757.51,2757.51,South
+ORD0206,2025-10-23,Bedsheet,Home & Kitchen,3,1485.25,4455.75,West
+ORD0207,2025-04-11,Bedsheet,Home & Kitchen,6,1405.9,8435.4,West
+ORD0208,2025-11-09,Moisturizer,Beauty,6,702.64,4215.84,South
+ORD0209,2025-05-29,Jacket,Fashion,5,4351.68,21758.4,South
+ORD0210,2025-11-09,Children Book,Books,1,369.14,369.14,North
+ORD0211,2025-01-25,Children Book,Books,6,387.71,2326.26,West
+ORD0212,2025-12-13,Exam Guide,Books,3,725.26,2175.78,South
+ORD0213,2025-07-01,Biography,Books,7,606.52,4245.64,North
+ORD0214,2025-12-10,Face Wash,Beauty,5,457.25,2286.25,South
+ORD0215,2025-06-03,Perfume,Beauty,5,2206.68,11033.4,North
+ORD0216,2025-03-25,Programming Book,Books,4,1179.51,4718.04,South
+ORD0217,2025-02-18,Jacket,Fashion,5,4407.59,22037.95,South
+ORD0218,2025-07-30,Biography,Books,6,609.79,3658.74,South
+ORD0219,2025-10-13,Table Lamp,Home & Kitchen,3,1643.66,4930.98,West
+ORD0220,2025-06-24,Bedsheet,Home & Kitchen,6,1482.23,8893.38,South
+ORD0221,2025-08-10,Exam Guide,Books,7,736.48,5155.36,East
+ORD0222,2025-02-24,Jacket,Fashion,2,4293.67,8587.34,West
+ORD0223,2025-06-11,Bedsheet,Home & Kitchen,7,1643.68,11505.76,South
+ORD0224,2025-12-15,Exam Guide,Books,1,755.52,755.52,South
+ORD0225,2025-09-12,Lipstick,Beauty,6,580.71,3484.26,North
+ORD0226,2025-03-08,Bluetooth Speaker,Electronics,4,3316.73,13266.92,West
+ORD0227,2025-10-18,Smartphone,Electronics,6,30619.18,183715.08,South
+ORD0228,2025-06-14,Bedsheet,Home & Kitchen,6,1437.94,8627.64,North
+ORD0229,2025-01-07,Novel,Books,1,470.79,470.79,East
+ORD0230,2025-04-22,Biography,Books,4,668.58,2674.32,North
+ORD0231,2025-01-02,Exam Guide,Books,5,774.69,3873.45,West
+ORD0232,2025-07-14,Handbag,Fashion,4,2985.17,11940.68,East
+ORD0233,2025-09-13,Bluetooth Speaker,Electronics,2,3752.75,7505.5,East
+ORD0234,2025-12-08,Headphones,Electronics,1,2684.23,2684.23,West
+ORD0235,2025-02-28,Lipstick,Beauty,1,598.17,598.17,West
+ORD0236,2025-01-14,Programming Book,Books,2,1232.03,2464.06,West
+ORD0237,2025-07-20,Jeans,Fashion,3,2165.55,6496.65,North
+ORD0238,2025-04-08,Table Lamp,Home & Kitchen,3,1916.13,5748.39,South
+ORD0239,2025-02-11,Face Wash,Beauty,6,411.05,2466.3,East
+ORD0240,2025-06-02,Bluetooth Speaker,Electronics,4,3294.49,13177.96,South
+ORD0241,2025-12-08,Handbag,Fashion,1,2669.24,2669.24,North
+ORD0242,2025-04-08,Jacket,Fashion,1,4494.85,4494.85,East
+ORD0243,2025-06-22,Handbag,Fashion,5,2734.56,13672.8,West
+ORD0244,2025-03-05,Bedsheet,Home & Kitchen,6,1571.41,9428.46,South
+ORD0245,2025-06-30,Biography,Books,2,593.87,1187.74,East
+ORD0246,2025-10-23,Mixer Grinder,Home & Kitchen,4,4697.14,18788.56,South
+ORD0247,2025-08-20,Jeans,Fashion,2,2154.53,4309.06,East
+ORD0248,2025-09-03,Lipstick,Beauty,1,572.39,572.39,North
+ORD0249,2025-05-28,Water Bottle,Home & Kitchen,4,546.17,2184.68,North
+ORD0250,2025-07-20,Table Lamp,Home & Kitchen,5,1743.98,8719.9,West
+ORD0251,2025-01-17,Jacket,Fashion,5,4669.56,23347.8,South
+ORD0252,2025-01-25,Handbag,Fashion,3,2563.55,7690.65,South
+ORD0253,2025-06-21,Cookware Set,Home & Kitchen,6,3257.75,19546.5,West
+ORD0254,2025-04-11,Biography,Books,3,710.07,2130.21,North
+ORD0255,2025-11-26,Programming Book,Books,1,1124.43,1124.43,East
+ORD0256,2025-08-04,Novel,Books,7,530.66,3714.62,West
+ORD0257,2025-07-17,Moisturizer,Beauty,2,698.52,1397.04,West
+ORD0258,2025-02-28,Water Bottle,Home & Kitchen,5,620.39,3101.95,West
+ORD0259,2025-01-16,Handbag,Fashion,7,2831.25,19818.75,West
+ORD0260,2025-09-07,Perfume,Beauty,7,2286.86,16008.02,South
+ORD0261,2025-06-25,Shoes,Fashion,3,3810.99,11432.97,North
+ORD0262,2025-08-11,Exam Guide,Books,7,792.82,5549.74,West
+ORD0263,2025-04-13,Handbag,Fashion,7,2724.23,19069.61,North
+ORD0264,2025-07-07,Cookware Set,Home & Kitchen,3,3325.62,9976.86,South
+ORD0265,2025-07-02,Jacket,Fashion,7,4333.76,30336.32,South
+ORD0266,2025-01-04,Programming Book,Books,1,1257.09,1257.09,West
+ORD0267,2025-01-16,Laptop,Electronics,4,61528.47,246113.88,South
+ORD0268,2025-08-15,Moisturizer,Beauty,6,630.03,3780.18,West
+ORD0269,2025-05-21,Table Lamp,Home & Kitchen,3,1645.21,4935.63,South
+ORD0270,2025-01-29,Bedsheet,Home & Kitchen,5,1361.28,6806.4,West
+ORD0271,2025-07-04,Cookware Set,Home & Kitchen,4,3509.81,14039.24,East
+ORD0272,2025-12-25,Handbag,Fashion,1,2653.72,2653.72,South
+ORD0273,2025-05-22,Headphones,Electronics,2,2398.15,4796.3,South
+ORD0274,2025-06-02,Bluetooth Speaker,Electronics,5,3841.41,19207.05,South
+ORD0275,2025-11-01,Shoes,Fashion,4,3302.78,13211.12,South
+ORD0276,2025-03-02,Bluetooth Speaker,Electronics,4,3442.31,13769.24,South
+ORD0277,2025-11-15,Lipstick,Beauty,3,648.45,1945.35,West
+ORD0278,2025-06-02,Smartphone,Electronics,4,28390.03,113560.12,West
+ORD0279,2025-12-15,Children Book,Books,5,426.45,2132.25,East
+ORD0280,2025-11-26,Bedsheet,Home & Kitchen,1,1416.15,1416.15,North
+ORD0281,2025-09-16,Programming Book,Books,5,1093.88,5469.4,West
+ORD0282,2025-08-03,Water Bottle,Home & Kitchen,3,611.67,1835.01,West
+ORD0283,2025-03-02,Programming Book,Books,3,1261.98,3785.94,South
+ORD0284,2025-08-04,Programming Book,Books,3,1133.87,3401.61,West
+ORD0285,2025-03-30,Lipstick,Beauty,6,643.22,3859.32,East
+ORD0286,2025-04-15,Mixer Grinder,Home & Kitchen,3,4166.56,12499.68,South
+ORD0287,2025-07-14,Shoes,Fashion,4,3174.8,12699.2,West
+ORD0288,2025-02-09,Water Bottle,Home & Kitchen,3,550.44,1651.32,West
+ORD0289,2025-05-04,Lipstick,Beauty,3,626.81,1880.43,South
+ORD0290,2025-02-06,Exam Guide,Books,5,863.12,4315.6,North
+ORD0291,2025-03-22,Table Lamp,Home & Kitchen,5,1793.01,8965.05,North
+ORD0292,2025-07-05,Biography,Books,2,655.69,1311.38,East
+ORD0293,2025-08-25,Table Lamp,Home & Kitchen,3,1932.54,5797.62,East
+ORD0294,2025-02-28,Laptop,Electronics,1,62842.12,62842.12,West
+ORD0295,2025-12-11,Table Lamp,Home & Kitchen,4,1842.7,7370.8,West
+ORD0296,2025-07-07,T-Shirt,Fashion,3,1310.72,3932.16,North
+ORD0297,2025-01-31,Hair Serum,Beauty,2,957.59,1915.18,West
+ORD0298,2025-06-07,Face Wash,Beauty,2,478.62,957.24,West
+ORD0299,2025-03-18,Bedsheet,Home & Kitchen,7,1407.94,9855.58,South
+ORD0300,2025-02-15,Table Lamp,Home & Kitchen,1,1847.45,1847.45,South
+ORD0301,2025-07-07,Smartphone,Electronics,5,31679.07,158395.35,North
+ORD0302,2025-03-15,T-Shirt,Fashion,2,1162.05,2324.1,South
+ORD0303,2025-08-10,Water Bottle,Home & Kitchen,6,652.47,3914.82,West
+ORD0304,2025-08-30,Smartwatch,Electronics,1,8433.57,8433.57,West
+ORD0305,2025-07-12,Programming Book,Books,3,1284.58,3853.74,North
+ORD0306,2025-07-11,Bedsheet,Home & Kitchen,4,1574.9,6299.6,East
+ORD0307,2025-01-07,Headphones,Electronics,1,2411.81,2411.81,North
+ORD0308,2025-02-27,Water Bottle,Home & Kitchen,2,572.84,1145.68,North
+ORD0309,2025-04-09,Smartwatch,Electronics,7,8043.24,56302.68,South
+ORD0310,2025-10-15,Mixer Grinder,Home & Kitchen,6,4257.05,25542.3,North
+ORD0311,2025-01-27,Mixer Grinder,Home & Kitchen,6,4185.95,25115.7,West
+ORD0312,2025-10-30,Face Wash,Beauty,3,491.81,1475.43,South
+ORD0313,2025-09-14,Biography,Books,6,614.89,3689.34,South
+ORD0314,2025-11-16,Headphones,Electronics,4,2531.38,10125.52,West
+ORD0315,2025-07-27,Cookware Set,Home & Kitchen,4,2998.74,11994.96,East
+ORD0316,2025-04-03,Programming Book,Books,7,1188.89,8322.23,West
+ORD0317,2025-07-18,Exam Guide,Books,4,725.2,2900.8,East
+ORD0318,2025-02-15,Headphones,Electronics,6,2308.65,13851.9,South
+ORD0319,2025-08-24,Programming Book,Books,1,1128.13,1128.13,South
+ORD0320,2025-11-15,Hair Serum,Beauty,5,858.42,4292.1,East
+ORD0321,2025-03-13,Lipstick,Beauty,5,557.95,2789.75,South
+ORD0322,2025-10-01,Face Wash,Beauty,2,448.19,896.38,East
+ORD0323,2025-02-01,T-Shirt,Fashion,1,1286.43,1286.43,East
+ORD0324,2025-09-24,T-Shirt,Fashion,1,1138.09,1138.09,South
+ORD0325,2025-02-15,Hair Serum,Beauty,6,921.27,5527.62,North
+ORD0326,2025-06-10,Children Book,Books,2,386.12,772.24,East
+ORD0327,2025-08-13,Smartphone,Electronics,5,27495.05,137475.25,North
+ORD0328,2025-04-26,Table Lamp,Home & Kitchen,7,1667.78,11674.46,South
+ORD0329,2025-03-31,Jeans,Fashion,2,2341.43,4682.86,East
+ORD0330,2025-11-01,Handbag,Fashion,5,2915.63,14578.15,West
+ORD0331,2025-01-09,T-Shirt,Fashion,7,1227.11,8589.77,West
+ORD0332,2025-07-23,Shoes,Fashion,2,3587.71,7175.42,West
+ORD0333,2025-11-14,Children Book,Books,7,366.41,2564.87,East
+ORD0334,2025-07-27,Children Book,Books,2,422.71,845.42,East
+ORD0335,2025-05-07,Headphones,Electronics,2,2469.3,4938.6,South
+ORD0336,2025-01-12,Exam Guide,Books,5,796.68,3983.4,South
+ORD0337,2025-05-02,Biography,Books,6,628.8,3772.8,South
+ORD0338,2025-08-09,Jacket,Fashion,7,4089.3,28625.1,West
+ORD0339,2025-03-23,Cookware Set,Home & Kitchen,3,3026.21,9078.63,North
+ORD0340,2025-12-27,Lipstick,Beauty,4,563.95,2255.8,South
+ORD0341,2025-04-03,Headphones,Electronics,7,2378.84,16651.88,South
+ORD0342,2025-11-01,Cookware Set,Home & Kitchen,7,3146.18,22023.26,West
+ORD0343,2025-10-20,Lipstick,Beauty,4,632.13,2528.52,South
+ORD0344,2025-02-19,Lipstick,Beauty,1,592.63,592.63,West
+ORD0345,2025-12-20,Face Wash,Beauty,2,458.8,917.6,South
+ORD0346,2025-09-19,Smartwatch,Electronics,3,8147.76,24443.28,East
+ORD0347,2025-05-05,Perfume,Beauty,5,2184.96,10924.8,North
+ORD0348,2025-08-13,Face Wash,Beauty,4,486.81,1947.24,North
+ORD0349,2025-10-25,Moisturizer,Beauty,6,701.77,4210.62,North
+ORD0350,2025-11-21,Bluetooth Speaker,Electronics,1,3323.06,3323.06,North
+ORD0351,2025-01-14,Water Bottle,Home & Kitchen,1,619.51,619.51,South
+ORD0352,2025-11-22,Jeans,Fashion,1,2406.54,2406.54,East
+ORD0353,2025-06-12,Smartphone,Electronics,7,30530.48,213713.36,East
+ORD0354,2025-06-13,Cookware Set,Home & Kitchen,7,3030.19,21211.33,West
+ORD0355,2025-07-14,Handbag,Fashion,2,2771.32,5542.64,South
+ORD0356,2025-12-16,Cookware Set,Home & Kitchen,5,3039.18,15195.9,North
+ORD0357,2025-01-01,Mixer Grinder,Home & Kitchen,6,4200.86,25205.16,South
+ORD0358,2025-04-17,Hair Serum,Beauty,5,906.03,4530.15,East
+ORD0359,2025-04-30,Programming Book,Books,4,1287.41,5149.64,West
+ORD0360,2025-04-18,T-Shirt,Fashion,4,1144.74,4578.96,South
+ORD0361,2025-10-20,Smartphone,Electronics,5,30840.02,154200.1,West
+ORD0362,2025-07-17,Headphones,Electronics,3,2408.08,7224.24,North
+ORD0363,2025-06-28,Programming Book,Books,2,1175.37,2350.74,North
+ORD0364,2025-08-04,Exam Guide,Books,6,872.29,5233.74,East
+ORD0365,2025-10-12,Exam Guide,Books,7,760.68,5324.76,West
+ORD0366,2025-06-27,Mixer Grinder,Home & Kitchen,6,4175.69,25054.14,South
+ORD0367,2025-11-04,Table Lamp,Home & Kitchen,2,1883.84,3767.68,East
+ORD0368,2025-12-07,Jacket,Fashion,5,4449.38,22246.9,North
+ORD0369,2025-03-27,Bluetooth Speaker,Electronics,1,3736.68,3736.68,South
+ORD0370,2025-04-24,Mixer Grinder,Home & Kitchen,2,4832.01,9664.02,South
+ORD0371,2025-03-17,Jacket,Fashion,1,4670.57,4670.57,North
+ORD0372,2025-01-01,Laptop,Electronics,6,63620.24,381721.44,North
+ORD0373,2025-12-27,Bluetooth Speaker,Electronics,4,3261.5,13046.0,North
+ORD0374,2025-03-04,T-Shirt,Fashion,1,1318.4,1318.4,West
+ORD0375,2025-03-14,Table Lamp,Home & Kitchen,7,1885.84,13200.88,North
+ORD0376,2025-04-08,Smartwatch,Electronics,6,8681.08,52086.48,South
+ORD0377,2025-03-23,Biography,Books,7,641.63,4491.41,West
+ORD0378,2025-05-09,Mixer Grinder,Home & Kitchen,6,4634.17,27805.02,North
+ORD0379,2025-05-23,Face Wash,Beauty,2,440.66,881.32,East
+ORD0380,2025-11-12,Face Wash,Beauty,1,426.38,426.38,East
+ORD0381,2025-10-18,Programming Book,Books,2,1220.89,2441.78,North
+ORD0382,2025-04-20,Jacket,Fashion,2,4467.14,8934.28,East
+ORD0383,2025-03-26,Headphones,Electronics,2,2489.59,4979.18,West
+ORD0384,2025-08-09,Face Wash,Beauty,4,418.41,1673.64,South
+ORD0385,2025-10-20,Novel,Books,4,510.79,2043.16,South
+ORD0386,2025-12-09,Novel,Books,2,521.55,1043.1,West
+ORD0387,2025-01-21,Mixer Grinder,Home & Kitchen,7,4857.04,33999.28,North
+ORD0388,2025-05-04,Face Wash,Beauty,4,488.43,1953.72,West
+ORD0389,2025-11-20,Water Bottle,Home & Kitchen,6,563.35,3380.1,West
+ORD0390,2025-02-21,Bedsheet,Home & Kitchen,5,1590.91,7954.55,East
+ORD0391,2025-05-16,Headphones,Electronics,4,2608.82,10435.28,South
+ORD0392,2025-03-18,Smartphone,Electronics,1,30134.89,30134.89,South
+ORD0393,2025-12-17,Jeans,Fashion,7,2211.07,15477.49,West
+ORD0394,2025-11-08,Jeans,Fashion,5,2092.89,10464.45,West
+ORD0395,2025-03-25,Smartwatch,Electronics,7,8505.2,59536.4,South
+ORD0396,2025-06-22,Cookware Set,Home & Kitchen,3,2881.65,8644.95,East
+ORD0397,2025-04-28,Perfume,Beauty,4,2080.36,8321.44,South
+ORD0398,2025-09-28,Shoes,Fashion,2,3402.54,6805.08,East
+ORD0399,2025-03-13,Handbag,Fashion,1,2652.65,2652.65,West
+ORD0400,2025-03-09,Bluetooth Speaker,Electronics,3,3745.82,11237.46,South
+ORD0401,2025-07-21,Jeans,Fashion,3,2254.5,6763.5,West
+ORD0402,2025-08-30,Laptop,Electronics,1,68079.36,68079.36,North
+ORD0403,2025-06-10,Smartphone,Electronics,1,28070.68,28070.68,North
+ORD0404,2025-05-23,Bluetooth Speaker,Electronics,7,3532.69,24728.83,North
+ORD0405,2025-03-19,Handbag,Fashion,1,2798.19,2798.19,East
+ORD0406,2025-11-16,Smartphone,Electronics,5,31055.05,155275.25,North
+ORD0407,2025-05-05,Handbag,Fashion,1,2528.86,2528.86,East
+ORD0408,2025-07-07,Lipstick,Beauty,4,626.92,2507.68,West
+ORD0409,2025-10-15,Handbag,Fashion,6,2668.34,16010.04,South
+ORD0410,2025-12-19,Bluetooth Speaker,Electronics,1,3376.36,3376.36,East
+ORD0411,2025-07-15,T-Shirt,Fashion,4,1096.23,4384.92,South
+ORD0412,2025-01-27,Bluetooth Speaker,Electronics,6,3564.97,21389.82,East
+ORD0413,2025-10-27,Headphones,Electronics,3,2345.16,7035.48,South
+ORD0414,2025-08-03,Smartphone,Electronics,6,30346.7,182080.2,South
+ORD0415,2025-10-13,Smartphone,Electronics,6,30373.78,182242.68,South
+ORD0416,2025-11-29,Smartwatch,Electronics,7,7521.49,52650.43,East
+ORD0417,2025-04-16,Novel,Books,1,532.18,532.18,North
+ORD0418,2025-05-25,Cookware Set,Home & Kitchen,4,3183.93,12735.72,South
+ORD0419,2025-10-06,Table Lamp,Home & Kitchen,6,1977.29,11863.74,South
+ORD0420,2025-09-05,Jacket,Fashion,1,4654.4,4654.4,South
+ORD0421,2025-08-19,Children Book,Books,5,426.09,2130.45,West
+ORD0422,2025-08-14,T-Shirt,Fashion,4,1152.75,4611.0,North
+ORD0423,2025-08-25,Exam Guide,Books,5,775.41,3877.05,South
+ORD0424,2025-11-27,Hair Serum,Beauty,6,890.5,5343.0,West
+ORD0425,2025-11-07,Smartwatch,Electronics,6,7995.14,47970.84,North
+ORD0426,2025-11-12,Perfume,Beauty,2,2200.51,4401.02,West
+ORD0427,2025-02-11,Programming Book,Books,5,1171.35,5856.75,South
+ORD0428,2025-06-07,Lipstick,Beauty,3,634.8,1904.4,East
+ORD0429,2025-01-14,Children Book,Books,5,361.83,1809.15,North
+ORD0430,2025-07-25,Smartphone,Electronics,2,31934.88,63869.76,West
+ORD0431,2025-09-10,Hair Serum,Beauty,4,919.15,3676.6,West
+ORD0432,2025-04-20,Laptop,Electronics,6,60772.9,364637.4,West
+ORD0433,2025-01-25,Headphones,Electronics,2,2284.09,4568.18,East
+ORD0434,2025-01-25,Smartphone,Electronics,5,30297.18,151485.9,North
+ORD0435,2025-01-31,Table Lamp,Home & Kitchen,2,1719.99,3439.98,South
+ORD0436,2025-06-09,T-Shirt,Fashion,6,1224.61,7347.66,North
+ORD0437,2025-10-14,Moisturizer,Beauty,3,656.85,1970.55,North
+ORD0438,2025-05-10,Hair Serum,Beauty,2,820.4,1640.8,South
+ORD0439,2025-03-24,Lipstick,Beauty,5,554.57,2772.85,North
+ORD0440,2025-09-20,Bedsheet,Home & Kitchen,4,1535.42,6141.68,East
+ORD0441,2025-04-13,Smartwatch,Electronics,5,8184.35,40921.75,North
+ORD0442,2025-08-09,Children Book,Books,4,427.84,1711.36,East
+ORD0443,2025-03-04,Exam Guide,Books,7,791.97,5543.79,West
+ORD0444,2025-01-07,Headphones,Electronics,6,2663.77,15982.62,South
+ORD0445,2025-03-27,Bluetooth Speaker,Electronics,7,3441.31,24089.17,West
+ORD0446,2025-09-03,Face Wash,Beauty,5,473.43,2367.15,West
+ORD0447,2025-03-06,Lipstick,Beauty,2,568.94,1137.88,South
+ORD0448,2025-06-30,Face Wash,Beauty,5,408.84,2044.2,West
+ORD0449,2025-07-07,Programming Book,Books,5,1282.65,6413.25,East
+ORD0450,2025-04-27,Moisturizer,Beauty,4,751.05,3004.2,South
+ORD0451,2025-09-09,Novel,Books,3,487.59,1462.77,East
+ORD0452,2025-02-11,Children Book,Books,5,370.65,1853.25,West
+ORD0453,2025-04-30,Programming Book,Books,1,1274.13,1274.13,South
+ORD0454,2025-01-29,Novel,Books,2,453.84,907.68,South
+ORD0455,2025-10-04,Jacket,Fashion,7,4643.42,32503.94,West
+ORD0456,2025-07-19,Perfume,Beauty,1,2009.33,2009.33,North
+ORD0457,2025-06-22,Lipstick,Beauty,4,601.47,2405.88,North
+ORD0458,2025-01-08,Bluetooth Speaker,Electronics,1,3672.35,3672.35,North
+ORD0459,2025-04-19,Laptop,Electronics,3,58657.41,175972.23,West
+ORD0460,2025-05-28,Bluetooth Speaker,Electronics,2,3473.36,6946.72,East
+ORD0461,2025-05-19,Smartwatch,Electronics,3,8258.19,24774.57,West
+ORD0462,2025-09-18,Biography,Books,6,684.37,4106.22,East
+ORD0463,2025-02-07,Handbag,Fashion,4,3023.38,12093.52,North
+ORD0464,2025-09-13,Jacket,Fashion,1,4393.75,4393.75,North
+ORD0465,2025-02-18,Exam Guide,Books,4,843.94,3375.76,South
+ORD0466,2025-08-05,Shoes,Fashion,6,3777.07,22662.42,South
+ORD0467,2025-05-29,Handbag,Fashion,3,3068.78,9206.34,North
+ORD0468,2025-09-26,Perfume,Beauty,7,2209.14,15463.98,East
+ORD0469,2025-01-11,Smartphone,Electronics,1,32568.5,32568.5,North
+ORD0470,2025-06-02,Moisturizer,Beauty,6,691.52,4149.12,South
+ORD0471,2025-04-24,Hair Serum,Beauty,6,977.1,5862.6,West
+ORD0472,2025-10-15,Cookware Set,Home & Kitchen,1,3293.32,3293.32,South
+ORD0473,2025-05-02,Headphones,Electronics,7,2689.63,18827.41,West
+ORD0474,2025-08-21,Cookware Set,Home & Kitchen,5,3363.23,16816.15,East
+ORD0475,2025-05-06,Face Wash,Beauty,6,474.88,2849.28,West
+ORD0476,2025-08-12,Cookware Set,Home & Kitchen,6,3362.04,20172.24,North
+ORD0477,2025-01-22,Hair Serum,Beauty,5,839.67,4198.35,South
+ORD0478,2025-10-10,Face Wash,Beauty,7,450.53,3153.71,West
+ORD0479,2025-02-13,Lipstick,Beauty,3,630.98,1892.94,East
+ORD0480,2025-07-03,Laptop,Electronics,6,65845.29,395071.74,East
+ORD0481,2025-04-18,Jeans,Fashion,5,2050.43,10252.15,East
+ORD0482,2025-07-05,Handbag,Fashion,1,2935.36,2935.36,North
+ORD0483,2025-04-14,Headphones,Electronics,2,2578.78,5157.56,North
+ORD0484,2025-01-10,Hair Serum,Beauty,6,920.88,5525.28,West
+ORD0485,2025-04-22,Smartphone,Electronics,4,30144.96,120579.84,West
+ORD0486,2025-03-31,Handbag,Fashion,4,2937.61,11750.44,West
+ORD0487,2025-05-01,Bedsheet,Home & Kitchen,1,1553.51,1553.51,West
+ORD0488,2025-08-31,Novel,Books,6,537.67,3226.02,West
+ORD0489,2025-07-05,Bluetooth Speaker,Electronics,5,3600.36,18001.8,South
+ORD0490,2025-01-24,Handbag,Fashion,2,2739.25,5478.5,North
+ORD0491,2025-11-06,Face Wash,Beauty,5,407.62,2038.1,East
+ORD0492,2025-09-17,Bedsheet,Home & Kitchen,5,1377.9,6889.5,North
+ORD0493,2025-03-12,Moisturizer,Beauty,6,731.28,4387.68,South
+ORD0494,2025-12-02,Bluetooth Speaker,Electronics,4,3542.46,14169.84,North
+ORD0495,2025-06-11,Lipstick,Beauty,3,572.38,1717.14,East
+ORD0496,2025-11-01,Biography,Books,3,592.61,1777.83,East
+ORD0497,2025-03-17,Table Lamp,Home & Kitchen,6,1695.54,10173.24,West
+ORD0498,2025-07-11,Smartwatch,Electronics,5,7435.92,37179.6,South
+ORD0499,2025-04-23,Moisturizer,Beauty,2,682.0,1364.0,South
+ORD0500,2025-09-08,Programming Book,Books,7,1319.6,9237.2,West
